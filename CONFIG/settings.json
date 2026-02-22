@@ -1,0 +1,14 @@
+{
+  "scan_path": "/Users/alyasi",
+  "exclude_folders": [
+    "Library",
+    ".Trash",
+    "node_modules",
+    ".git",
+    "PARKING",
+    "cleanclaw-agent"
+  ],
+  "large_file_threshold_mb": 500,
+  "old_file_days": 90,
+  "dry_run": true
+}
